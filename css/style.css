@@ -204,6 +204,20 @@ header {
     background-image: url("../img/service/allinone.jpg");
 }
 
+.projects-hero {
+    background-image: url("../img/projects/project-hero.jpg");
+    background-position: 0 50%;
+}
+
+.projects img {
+    height: 240px;
+    object-fit: cover;
+}
+
+.projects .btn {
+    font-size: 1.4rem;
+    text-transform: uppercase;
+}
 
 @media (min-width: 992px) {
     .aboutus-info .container {
