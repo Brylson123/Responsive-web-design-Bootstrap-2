@@ -161,6 +161,13 @@ header {
     font-weight: bold;
 }
 
+.service-hero {
+    background-image: url("../img/service/services-hero.jpg");
+    background-position: 0 75%;
+}
+
+
+
 
 @media (min-width: 992px) {
     .aboutus-info .container {
